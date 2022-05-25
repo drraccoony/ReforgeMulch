@@ -8,6 +8,8 @@ Initial attempts to import a Blood Gulch FBX from Halo:CE into the Arma Reforger
 
 The `./flipped` directory holds the textures and models from the Blood Gulch FBX file, which had the normals flipped to work properly within the Reforger world editor. `Mp_ReforgeMulchWorld.ent` is a copy of `MPTest.ent` to have the skybox, spawns and other required components needed to test/run the world.
 
+![image](https://user-images.githubusercontent.com/12677478/170155168-fa7dd26d-8426-4510-b32a-ab561db30833.png)
+
 ## Resources
 - [Blood Gulch Model File(s)](https://sketchfab.com/3d-models/blood-gulch-halo-1-03865b4ada6d445c8daec114e49790e7)
 
