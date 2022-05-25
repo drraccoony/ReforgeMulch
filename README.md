@@ -2,7 +2,7 @@
 
 ![ArmaReforgerBloodGulch](img/readmeBanner.png)
 
-Attempts to import a Blood Gulch FBX from Halo:CE into the Arma Reforger game using the Reforger Tools.
+Initial attempts to import a Blood Gulch FBX from Halo:CE into the Arma Reforger game using the Reforger Tools. This was done while learning the World Editor IDE toolset and is quite incomplete.
 
 ## Getting Started
 
