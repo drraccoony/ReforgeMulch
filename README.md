@@ -1,5 +1,7 @@
 # ReforgeMulch
 
+![ArmaReforgerBloodGulch](img/readmeBanner.png)
+
 Attempts to import a Blood Gulch FBX from Halo:CE into the Arma Reforger game using the Reforger Tools.
 
 ## Getting Started
