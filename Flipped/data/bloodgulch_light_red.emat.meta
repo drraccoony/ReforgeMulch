@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{CE490E95756FE9B4}Flipped/data/bloodgulch_light_red.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

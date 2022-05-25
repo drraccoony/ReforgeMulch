@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BlendMode Additive
+ BCRMap "{51625806341FCD0F}Flipped/textures/cap_moss01b.edds"
+}

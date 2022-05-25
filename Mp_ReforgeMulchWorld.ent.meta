@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3DF4BBE9A1CA32A8}Mp_ReforgeMulchWorld.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
